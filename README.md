@@ -1,2 +1,1 @@
-# cv-virginia
-Curriculum Virginia Márquez
+virginia
